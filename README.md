@@ -6,7 +6,6 @@ This is running on a server
 
 ```bash 
 $ git clone https://github.com/aleksandarkrst/node-app # or clone your own fork
-$ cd node-app
 $ npm install
 $ node app.js
 ```
