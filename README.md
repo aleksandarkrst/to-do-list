@@ -7,6 +7,7 @@ This is running on a server
 ```bash 
 $ git clone https://github.com/aleksandarkrst/node-app # or clone your own fork
 $ npm install
+$ npm body-parser express
 $ node app.js
 ```
 
